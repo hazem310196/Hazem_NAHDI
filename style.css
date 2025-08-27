@@ -96,8 +96,8 @@ section.experience ul { text-align: left; }
 }
 @keyframes float { 0%,100% { transform: translateY(-10px); } 50% { transform: translateY(10px); } }
 .home-content h1 { font-size: 3.5rem; }
-.home-content h3 { font-size: 2rem; color: var(--main); }
-
+.home-content .typing-container h3 { font-size: 2rem; color: var(--main); }
+.home-content .typing-container span { font-size: 2rem; color: var(--main); }
 /* ==== Bouton ==== */
 .btn {
   display: inline-block;
